@@ -1,6 +1,9 @@
 # Final Projects of the Programming Course
 # "Python Generation": a course for beginners
 
+
+To start using it, you have to run main.py
+
 #
 
 # The Caesar Cipher
